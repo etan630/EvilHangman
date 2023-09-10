@@ -18,6 +18,9 @@ void clear_keyboard_buffer( void ) ;
 void clear_screen( void ) ;
 void hangman_driver( void ) ;
 
+// "make game" --> ./game
+// "make unit_test" --> ./unit_test
+
 int main( int argc, char *argv[] ) {
 
     do {
